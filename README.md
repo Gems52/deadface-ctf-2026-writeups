@@ -21,8 +21,6 @@ Writeups for the challenges solved by **GEMS52** of team **RUY** at **DEADFACE C
 
 The challenges span a hospital data breach, a clinical-trial fraud investigation, a multi-stage Linux privilege-escalation chain on a box named `charon`, a set of pwn binaries from the same "bulletproof hosting" author, DNS/ICMP exfiltration captures, two Android apps, and a handful of standalone crypto, reverse-engineering and forensics puzzles. Every writeup documents the path that actually led to the flag: the artifact, the key insight, and the decisive command or script. Dead ends are not reproduced.
 
-> ⚠️ **Spoiler warning.** Every page contains the final flag. If you are still playing, stop here.
-
 ## Scoreboard at a glance
 
 Challenges are grouped by category (highest points first), matching the order they were solved and documented. Click a challenge name to open its writeup.
